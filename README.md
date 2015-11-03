@@ -37,3 +37,13 @@ Run and start application
 npm start
 ```
 Go to [http://localhost:5000](http://localhost:5000)
+
+##Emulating and Testing in Mobile Devices; Android/IOS
+
+The Feed API is made using html5 and javascript and it should work on android and IOS.
+
+To test this, [install ripple emulator on chrome](https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc?hl=en)
+
+After successfully adding the riplle emulator to Google Chrome, head back to the [app's URL](http://localhost:5000/)
+
+You should see the emulators icon on the rop right corner. Click on it and select the device you would like to emulate.
