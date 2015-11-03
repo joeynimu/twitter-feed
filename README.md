@@ -44,6 +44,6 @@ The Feed API is made using html5 and javascript and it should work on android an
 
 To test this, [install ripple emulator on chrome](https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc?hl=en)
 
-After successfully adding the riplle emulator to Google Chrome, head back to the [app's URL](http://localhost:5000/)
+After successfully adding the ripple emulator to Google Chrome, head back to the [app's URL](http://localhost:5000/)
 
 You should see the emulators icon on the rop right corner. Click on it and select the device you would like to emulate.
