@@ -15,7 +15,9 @@ git clone https://github.com/joeynimu/twitter-feed.git
 ```
 
 The config.js file contains the Twitter API keys. I have used my own app keys but i recommend you use your own but you can use as it is for demo purposes.
+
 **Changing Twitter API keys to your own**
+
 Open config.js file.
 Creat your own Twitter app [here](https://apps.twitter.com/)
 Generate your app's keys and replace mine with yours in the config.js file.
