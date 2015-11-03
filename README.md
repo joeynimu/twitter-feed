@@ -32,3 +32,4 @@ Run and start application
 ```
 npm start
 ```
+Go to [http://localhost:5000](http://localhost:5000)
