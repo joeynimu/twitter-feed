@@ -26,3 +26,9 @@ Install node dependancies:
 ```
 npm install
 ```
+
+Run and start application
+
+```
+npm start
+```
